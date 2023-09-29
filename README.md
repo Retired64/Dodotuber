@@ -20,7 +20,10 @@ pkg install git -y
 ```
 * clona el repositorio
 ```
-git clone
+git clone https://github.com/Retired64/Dodotuber.git
+```
+```
+cd Dodotuber
 ```
 * ejecuta el comando 
 
