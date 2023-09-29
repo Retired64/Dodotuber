@@ -41,4 +41,4 @@ yes|pkg upgrade && yes|pkg update
 
 # DISFRUTA ¶(^_^)✓ creditos Anonimos esta herramienta es tuya
 
-* YouTube[![link](https://cdn.discordapp.com/attachments/1120450661050499083/1157396623643643944/IMG_20230929_122041_512_x_512_pixel.png?ex=6518751a&is=6517239a&hm=63c531eb6c4208dae0ba0081ffd7922156f18cae37efc71c989510f1d18d5ac7&)](https://youtube.com/@Retired64?si=5ezXzCLXef3zKaT2 "[TUTORIAL] Compilar (descargar) La nueva actualización para sm64ex-coop Android Parte 1 ")
+* [YOUTUBE ](https://youtube.com/@Retired64?si=5ezXzCLXef3zKaT2)[![link](https://cdn.discordapp.com/attachments/1120450661050499083/1157396623643643944/IMG_20230929_122041_512_x_512_pixel.png?ex=6518751a&is=6517239a&hm=63c531eb6c4208dae0ba0081ffd7922156f18cae37efc71c989510f1d18d5ac7&)](https://youtube.com/@Retired64?si=5ezXzCLXef3zKaT2 "[TUTORIAL] Compilar (descargar) La nueva actualización para sm64ex-coop Android Parte 1 ")
