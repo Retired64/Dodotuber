@@ -36,7 +36,7 @@ python TubeLoader.py
 ### Si no tienes el acceso del almacenamiento permitido tendras que permitirselo a termux antes de usar la herramienta con este comando a continuacion
 
 ```
-yes|pkg upgrade && yes|pkg update
+termux-setup-storage
 ```
 
 # DISFRUTA ¶(^_^)✓ creditos Anonimos esta herramienta es tuya
